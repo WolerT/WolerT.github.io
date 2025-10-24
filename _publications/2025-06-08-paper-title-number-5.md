@@ -4,7 +4,7 @@ collection: publications
 category: conferences
 permalink: 
 excerpt: 'This paper proposes a novel mmWave radar and low-resolution infrared fusion system for human semantic segmentation, enhancing environmental robustness through multi-modal feature fusion.'
-date: 2026
+date: 2025-10-17
 venue: 'Chinese Conference on Pattern Recognition and Computer Vision (PRCV) 2025'
 paperurl: 
 citation: 'Tang, X., Shi, R., Wang, S., Zhang, Z., et al. (2025). MIRaSeg: Exploring mmWave Radar and Low Resolution Infrared Sensor Fusion for Robust Human Semantic Segmentation. In Proceedings of the Chinese Conference on Pattern Recognition and Computer Vision (PRCV).'
