@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-## About Me
+
 
 I am Xiangjie Tang, a Computer Science undergraduate at Southeast University, passionate about developing intelligent systems that bridge the gap between cutting-edge technology and human needs. My research focuses on the intersection of Internet of Things (IoT), Human-Computer Interaction (HCI), Edge AI, and Autonomous Driving systems.
 
