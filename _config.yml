@@ -23,7 +23,7 @@ repository               : "WolerT/WoelrT.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "myhead.jpg"
   name             : "Xiangjie Tang(唐祥杰)"
   pronouns         : # example: "she/her"  
   bio              : "Bachelor of computer science"
