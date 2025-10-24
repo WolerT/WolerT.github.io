@@ -1,152 +1,132 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "Xiangjie Tang(唐祥杰)",
+    "email": "xiangjietang@foxmail.com",
     "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "website": "https://WolerT.github.io",
+    "summary": "Computer Science undergraduate at Southeast University, passionate about IoT, HCI, Edge AI, and Autonomous Driving systems. Research Assistant at HKUST UbiquitousX Lab.",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
+      "city": "Hong Kong",
+      "countryCode": "CN",
       "region": ""
     },
     "profiles": [
       {
+        "network": "GitHub",
+        "username": "WolerT",
+        "url": "https://github.com/WolerT"
+      },
+      {
         "network": "Google Scholar",
         "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+        "url": ""
       },
       {
         "network": "ORCID",
         "username": "",
-        "url": "https://orcid.org/yourorcidurl"
-      },
-      {
-        "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "url": ""
       }
     ]
   },
-  "work": [],
-  "education": [
+  "work": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
-      "gpa": null,
-      "courses": []
+      "name": "Research Assistant",
+      "employer": "HKUST UbiquitousX Lab",
+      "location": "Hong Kong",
+      "startDate": "2024-09",
+      "endDate": "Present",
+      "summary": "Contactless vital sign monitoring, edge deployment of remote photoplethysmogram networks, multi-modal sensor fusion research"
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
+      "name": "Research Assistant",
+      "employer": "Southeast University AI-native IoT Lab",
+      "location": "Nanjing, China",
+      "startDate": "2023-06",
+      "endDate": "2024-08",
+      "summary": "Multi-sensor fusion with mmWave radar and infrared systems, human parsing solutions, IoT system development"
     },
     {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
-      "gpa": null,
-      "courses": []
+      "name": "Vehicle Control Algorithm Engineer",
+      "employer": "Southeast University Formula Racing Team",
+      "location": "Nanjing, China",
+      "startDate": "2022-09",
+      "endDate": "Present",
+      "summary": "Four-wheel independent steering system design, real-time telemetry monitoring, autonomous driving algorithms"
     }
   ],
-  "skills": [],
-  "languages": [],
-  "interests": [],
+  "education": [
+    {
+      "institution": "Southeast University",
+      "area": "Bachelor of Computer Science and Technology",
+      "studyType": "Undergraduate",
+      "startDate": "2022-09",
+      "endDate": "2026-06",
+      "courses": ["Data Structures", "Algorithms", "Computer Networks", "Operating Systems", "Machine Learning", "IoT Systems"]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Programming Languages",
+      "keywords": ["Python", "C++", "Java", "MATLAB", "JavaScript", "Verilog"]
+    },
+    {
+      "name": "Frameworks & Tools",
+      "keywords": ["PyTorch", "TensorFlow", "ROS", "Docker", "Git", "Linux"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Chinese",
+      "fluency": "Native"
+    },
+    {
+      "language": "English",
+      "fluency": "Professional Working Proficiency"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Research Interests",
+      "keywords": ["Intelligent IoT", "Edge Computing", "Autonomous Systems", "Human-Centered AI"]
+    },
+    {
+      "name": "Technical Interests", 
+      "keywords": ["Real-time Systems", "Sensor Networks", "Embedded Systems", "Computer Vision"]
+    }
+  ],
   "references": [],
   "publications": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "https://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
+      "name": "MIRaSeg: Exploring mmWave Radar and Low Resolution Infrared Sensor Fusion for Robust Human Semantic Segmentation",
+      "publisher": "Chinese Conference on Pattern Recognition and Computer Vision (PRCV)",
+      "releaseDate": "2025-02-17",
+      "website": "https://github.com/WolerT/WolerT.github.io/blob/master/files/miraseg.pdf",
+      "summary": "Proposes a novel mmWave radar and infrared fusion system for human semantic segmentation, enhancing environmental robustness through multi-modal feature fusion."
     },
     {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "https://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
-    }
-  ],
-  "presentations": [
-    {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
-      "description": ""
-    },
-    {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
-      "description": ""
-    }
-  ],
-  "teaching": [
-    {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
-      "description": ""
-    },
-    {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
-      "description": ""
+      "name": "Edge Deployment of Remote Photoplethysmogram Networks for Contactless Vital Sign Monitoring",
+      "publisher": "Under Review",
+      "releaseDate": "2025-06-01",
+      "website": "",
+      "summary": "Edge computing solutions for real-time vital sign monitoring using remote PPG networks on resource-constrained devices."
     }
   ],
   "portfolio": [
     {
-      "name": "Portfolio item number 1",
-      "category": "portfolio",
-      "date": "",
-      "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+      "name": "Four-Wheel Independent Steering System",
+      "category": "Engineering Project",
+      "date": "2023-12",
+      "url": "https://github.com/WolerT/formula-racing",
+      "description": "Designed and implemented real-time control system for formula racing vehicle with independent wheel steering<br/><img src='/images/racing-system.png'>"
+    },
+    {
+      "name": "Contactless Vital Sign Monitoring System",
+      "category": "Research Project", 
+      "date": "2024-08",
+      "url": "https://github.com/WolerT/vital-sign-monitoring",
+      "description": "Edge AI system for remote photoplethysmogram analysis and real-time health monitoring<br/><img src='/images/vital-signs.png'>"
     }
   ]
 }
