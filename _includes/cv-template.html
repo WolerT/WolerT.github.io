@@ -84,14 +84,14 @@
     </a>
     
     <!-- Keep minimal contact info for reference -->
-    {% if cv.basics.profiles.size > 0 %}
+    <!-- {% if cv.basics.profiles.size > 0 %}
     <div class="cv-profiles">
       {% for profile in cv.basics.profiles %}
       <a href="{{ profile.url }}" target="_blank" class="cv-profile-link">
         <i class="fab fa-{{ profile.network | downcase }}"></i> {{ profile.network }}
       </a>
       {% endfor %}
-    </div>
+    </div> -->
     {% endif %}
   </div>
   
