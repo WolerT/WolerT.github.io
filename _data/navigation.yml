@@ -15,8 +15,8 @@ main:
   #   url: /cv/
     
   - title: "Portfolio"
-    url: /Portfolio/
-    
+    url: /portfolio/
+
   - title: "CV"
     url: /cv-json/
 
