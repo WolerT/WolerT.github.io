@@ -1,6 +1,6 @@
 ---
 title: "A Torque Distribution Control for Four-Wheel Independent-drive Vehicles"
-excerpt: "Independently completed a complete set of electric vehicle control systems.<br/><img src='/images/seur.png'>"
+excerpt: "Independently completed a complete set of electric vehicle control systems.<br/><img src='/images/seur.jpg'>"
 collection: portfolio
 ---
 
