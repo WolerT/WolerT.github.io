@@ -196,14 +196,14 @@ button:focus-visible {
 }
 
 @media screen and (min-width: 1024px) {
-  #main {
+  #main.main--with-sidebar {
     display: grid;
-    grid-template-columns: 15.5rem minmax(0, 1fr);
-    column-gap: clamp(3rem, 6vw, 6.5rem);
+    grid-template-columns: minmax(17rem, 19rem) minmax(0, 1fr);
+    column-gap: clamp(1.75rem, 4vw, 4.5rem);
     align-items: start;
   }
 
-  .sidebar {
+  #main.main--with-sidebar .sidebar {
     position: sticky;
     top: 5.8rem;
     width: auto;
@@ -215,11 +215,72 @@ button:focus-visible {
     border-right: 1px solid var(--global-border-color);
   }
 
-  .page {
+  #main.main--with-sidebar .page {
     float: none;
     width: auto;
     margin: 0;
     padding: 0 1rem 3rem 0;
+  }
+
+  #main.main--with-sidebar > .archive {
+    grid-column: 2;
+    float: none;
+    width: auto;
+    margin: 0;
+    padding: 0 1rem 3rem 0;
+  }
+
+  /* Archives without a sidebar, including /cv-json/, must use the whole container. */
+  #main.main--full-width > .archive {
+    float: none;
+    width: min(100%, 72rem);
+    margin: 0 auto;
+    padding: 0 1rem 3rem;
+  }
+}
+
+/* The embedded CV is intentionally independent of article/sidebar sizing. */
+.cv-container {
+  max-width: 72rem;
+  margin: 0 auto;
+  font-family: "Source Sans 3", "Segoe UI", "Noto Sans KR", sans-serif;
+}
+
+.cv-pdf-container {
+  width: 100%;
+  height: min(78vh, 68rem);
+  min-height: 38rem;
+  margin: 1.5rem 0;
+  overflow: hidden;
+  border: 1px solid var(--global-border-color);
+  border-radius: 0.35rem;
+  background: var(--global-code-background-color);
+}
+
+.cv-pdf-embed {
+  width: 100%;
+  height: 100%;
+  border: 0;
+}
+
+.cv-download-btn,
+.cv-download-links .btn {
+  margin: 0.5rem 0.5rem 0.5rem 0;
+}
+
+.cv-download-btn {
+  display: inline-block;
+  padding: 0.62rem 1rem;
+  color: #fff;
+  background: var(--global-link-color);
+  border-radius: 0.28rem;
+  font-weight: 700;
+  text-decoration: none;
+
+  &:hover {
+    color: #fff;
+    background: var(--global-link-color-hover);
+    text-decoration: none;
   }
 }
 
