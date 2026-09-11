@@ -15,7 +15,7 @@ I am Xiangjie Tang, a combined master's–doctoral student at Seoul National Uni
 ## Education
 
 * Combined master's–doctoral student, Seoul National University — September 2026–present
-* B.S. in Computer Science and Technology, Southeast University — June 2026
+* B.S. in Computer Science and Technology, Southeast University — August 2022 – June 2026
 
 ## Previous Experience
 
