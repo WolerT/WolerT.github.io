@@ -11,35 +11,25 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Combined Master's–Doctoral Student, Seoul National University, September 2026–present
+  * Advisor: Prof. Minhao Cui
+  * Laboratory: Meta Perception Lab
+* B.S. in Computer Science and Technology, Southeast University, 2026
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Research Assistant, HKUST UbiquitousX Lab
+  * Completed internship focused on contactless vital-sign monitoring and edge deployment of remote photoplethysmogram networks.
+* Research Assistant, Southeast University AI-native IoT Lab
+  * Conducted multi-sensor fusion research using mmWave radar and infrared systems for human parsing.
+* Vehicle Control Algorithm Engineer, Southeast University Formula Racing Team
+  * Designed four-wheel independent steering systems and real-time telemetry monitoring solutions.
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming: Python, C++, Java, MATLAB, JavaScript, Verilog
+* Frameworks and tools: PyTorch, TensorFlow, ROS, Docker, Git, Linux
+* Research interests: Intelligent IoT, Edge Computing, Autonomous Systems, Human-Centered AI
 
 Publications
 ======
@@ -58,7 +48,3 @@ Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams

@@ -9,9 +9,9 @@ redirect_from:
 
 
 
-I am Xiangjie Tang, a senior undergraduate from the Computer Science honor class at Southeast University, passionate about developing intelligent systems that bridge the gap between cutting-edge technology and human needs. My research focuses on the intersection of Internet of Things (IoT), Human-Computer Interaction (HCI), Edge AI, and Autonomous Driving Systems.
+I am Xiangjie Tang, a combined master's–doctoral student at Seoul National University. I am advised by Prof. Minhao Cui and affiliated with the Meta Perception Lab. I am passionate about developing intelligent systems that bridge the gap between cutting-edge technology and human needs. My research interests include the Internet of Things (IoT), Human-Computer Interaction (HCI), Edge AI, and autonomous driving systems.
 
-Currently, I serve as a Research Assistant at HKUST's UbiquitousX Lab, where I work on contactless vital sign monitoring and edge deployment of remote photoplethysmogram networks. Previously at Southeast University's AI-native IoT Lab, I gained extensive experience in multi-sensor fusion, particularly with mmWave radar and infrared systems, contributing to innovative human parsing solutions.
+I received my bachelor's degree from Southeast University in 2026. Previously, I was a Research Assistant at HKUST's UbiquitousX Lab, where I worked on contactless vital-sign monitoring and edge deployment of remote photoplethysmogram networks. At Southeast University's AI-native IoT Lab, I gained experience in multi-sensor fusion, particularly with mmWave radar and infrared systems, contributing to human-parsing solutions.
 
 My practical engineering skills are demonstrated through my role as Vehicle Control Algorithm Engineer in the Formula Racing Team, where I've designed and implemented four-wheel independent steering systems and real-time telemetry monitoring solutions. This hands-on experience complements my academic work, allowing me to translate theoretical concepts into functional systems.
 

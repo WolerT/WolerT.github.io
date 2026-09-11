@@ -4,12 +4,12 @@
     "email": "xiangjietang@foxmail.com",
     "phone": "",
     "website": "https://WolerT.github.io",
-    "summary": "Computer Science undergraduate at Southeast University, passionate about IoT, HCI, Edge AI, and Autonomous Driving systems. Research Assistant at HKUST UbiquitousX Lab.",
+    "summary": "Combined master's–doctoral student at Seoul National University, advised by Prof. Minhao Cui and affiliated with the Meta Perception Lab. Research interests include IoT, HCI, Edge AI, and autonomous driving systems.",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Hong Kong",
-      "countryCode": "CN",
+      "city": "Seoul",
+      "countryCode": "KR",
       "region": ""
     },
     "profiles": [
@@ -36,7 +36,6 @@
       "employer": "HKUST UbiquitousX Lab",
       "location": "Hong Kong",
       "startDate": "2024-09",
-      "endDate": "Present",
       "summary": "Contactless vital sign monitoring, edge deployment of remote photoplethysmogram networks, multi-modal sensor fusion research"
     },
     {
@@ -57,6 +56,14 @@
     }
   ],
   "education": [
+    {
+      "institution": "Seoul National University",
+      "area": "Combined Master's–Doctoral Program",
+      "studyType": "Graduate Student",
+      "startDate": "2026-09",
+      "endDate": "Present",
+      "courses": []
+    },
     {
       "institution": "Southeast University",
       "area": "Bachelor of Computer Science and Technology",
