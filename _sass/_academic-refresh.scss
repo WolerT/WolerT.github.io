@@ -198,7 +198,9 @@ button:focus-visible {
 @media screen and (min-width: 1024px) {
   #main.main--with-sidebar {
     display: grid;
-    grid-template-columns: minmax(17rem, 19rem) minmax(0, 1fr);
+    // The author name is intentionally kept on one line on desktop.  A 20rem
+    // first track leaves enough room after the sidebar's internal padding.
+    grid-template-columns: minmax(20rem, 21rem) minmax(0, 1fr);
     column-gap: clamp(1.75rem, 4vw, 4.5rem);
     align-items: start;
   }
@@ -210,9 +212,13 @@ button:focus-visible {
     height: auto;
     max-height: calc(100vh - 7rem);
     margin: 0;
-    padding: 0 1.5rem 1.5rem 0;
+    padding: 0 1rem 1.5rem 0;
     overflow-y: auto;
     border-right: 1px solid var(--global-border-color);
+
+    .author__name {
+      white-space: nowrap;
+    }
   }
 
   #main.main--with-sidebar .page {
