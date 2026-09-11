@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Xiangjie Tang(唐祥杰)",
-    "email": "xiangjietang@foxmail.com",
+    "email": "frieren@snu.ac.kr",
     "phone": "",
     "website": "https://WolerT.github.io",
     "summary": "Combined master's–doctoral student at Seoul National University, advised by Prof. Minhao Cui and affiliated with the Meta Perception Lab. Research interests include IoT, HCI, Edge AI, and autonomous driving systems.",
@@ -36,6 +36,7 @@
       "employer": "HKUST UbiquitousX Lab",
       "location": "Hong Kong",
       "startDate": "2024-09",
+      "endDate": "2026-06",
       "summary": "Contactless vital sign monitoring, edge deployment of remote photoplethysmogram networks, multi-modal sensor fusion research"
     },
     {

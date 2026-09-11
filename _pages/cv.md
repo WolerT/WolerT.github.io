@@ -14,11 +14,11 @@ Education
 * Combined Master's–Doctoral Student, Seoul National University, September 2026–present
   * Advisor: Prof. Minhao Cui
   * Laboratory: Meta Perception Lab
-* B.S. in Computer Science and Technology, Southeast University, 2026
+* B.S. in Computer Science and Technology, Southeast University, June 2026
 
 Work experience
 ======
-* Research Assistant, HKUST UbiquitousX Lab
+* Research Assistant, HKUST UbiquitousX Lab, completed June 2026
   * Completed internship focused on contactless vital-sign monitoring and edge deployment of remote photoplethysmogram networks.
 * Research Assistant, Southeast University AI-native IoT Lab
   * Conducted multi-sensor fusion research using mmWave radar and infrared systems for human parsing.

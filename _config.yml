@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Xiangjie Tang's Home Page"
+title                    : "Tang Xiangjie's Home Page"
 title_separator          : "-"
 name                     : &name "Xiangjie Tang(唐祥杰)"
 description              : &description "Xiangjie Tangs academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -28,9 +28,9 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Combined M.S.–Ph.D. Student"
   location         : "Seoul, South Korea"
-  employer         : "Seoul National University · Meta Perception Lab"
+  employer         : "Seoul National University(서울대학교)"
   uri              : # URL
-  email            : "xiangjietang@foxmail.com" 
+  email            : "frieren@snu.ac.kr"
   cv: "cv.pdf"
 
   # Academic websites
